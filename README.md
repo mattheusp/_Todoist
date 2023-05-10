@@ -1,2 +1,2 @@
 # _Todoist
- to do ist - Mattheus
+To do ist criada com HTML, CSS e JavaScript.
